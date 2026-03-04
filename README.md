@@ -1,5 +1,5 @@
 # 🚕 Taxi Compare
-![Home Page](./assets/home.png)
+![Home Page](./home.png)
 
 
 
@@ -17,7 +17,7 @@ The website consists of four main pages:
 
 ## 1️⃣ Presentation App (Home)
 
-![Home Page](./assets/home.png)
+![Home Page](./home.png)
 
 
 
@@ -52,7 +52,7 @@ Shows how the system works in three simple steps:
 ## 4️⃣ Stupidly Simple Pricing
 
 
-![Pricing Section](./assets/pricing.png)
+![Pricing Section](./pricing.png)
 
 Explains the pricing model:
 
