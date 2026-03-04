@@ -17,7 +17,7 @@ The website consists of four main pages:
 
 ## 1️⃣ Presentation App (Home)
 
-![Home Page](./home.png)
+![Home Page](./11.png)
 
 
 
