@@ -1,5 +1,6 @@
 # 🚕 Taxi Compare
-<img src="Taxi Compare//home.png" width="800">
+![Home Page](./assets/home.png)
+
 
 
 ## 📌 Project Overview
@@ -16,7 +17,8 @@ The website consists of four main pages:
 
 ## 1️⃣ Presentation App (Home)
 
-<img src="Taxi Compare//home.png" width="800">
+![Home Page](./assets/home.png)
+
 
 
 - Introduces the Taxi Compare concept  
@@ -50,7 +52,7 @@ Shows how the system works in three simple steps:
 ## 4️⃣ Stupidly Simple Pricing
 
 
-<img src="Taxi Compare/pricing.png" width="800">
+![Pricing Section](./assets/pricing.png)
 
 Explains the pricing model:
 
