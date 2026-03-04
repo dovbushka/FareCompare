@@ -16,7 +16,8 @@ The website consists of four main pages:
 
 ## 1️⃣ Presentation App (Home)
 
-![Home Page Preview](assets/home.png)
+<img src="./assets/home.png" width="800">
+
 
 - Introduces the Taxi Compare concept  
 - Contains a call-to-action button  
@@ -48,7 +49,8 @@ Shows how the system works in three simple steps:
 
 ## 4️⃣ Stupidly Simple Pricing
 
-![Pricing Section Preview](assets/pricing.png)
+
+<img src="./assets/pricing.png" width="800">
 
 Explains the pricing model:
 
