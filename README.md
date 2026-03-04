@@ -18,7 +18,7 @@ The website consists of four main pages:
 ## 1️⃣ Presentation App (Home)
 
 ![Home Page](./11.png)
-
+![Home Page](./22.png)
 
 
 - Introduces the Taxi Compare concept  
